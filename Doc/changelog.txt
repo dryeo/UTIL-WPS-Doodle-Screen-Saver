@@ -1,6 +1,6 @@
 ChangeLog File:
 
-* v2.5 : 2024.02.16
+* v2.5 : 2025.02.16
   - Update libpng and zlib for PrettyClock
   - Properties help rewrite from Alfredo Fern ndez D¡az
   - Spanish translations from Alfredo Fern ndez D¡az
