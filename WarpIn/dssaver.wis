@@ -364,7 +364,7 @@
      >Russian language support</PCK>
 
 <PCK INDEX="58"
-     PACKAGEID="=("Var PckPrefix")\Language : Spanish\2\2"
+     PACKAGEID="=("Var PckPrefix")\Language : Spanish\2\3"
      TITLE="Spanish language"
      REQUIRES=1
      TARGET="$(1)\Lang"
